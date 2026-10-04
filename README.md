@@ -206,6 +206,9 @@ The tests check things such as:
 * CLI functionality
 * Open Food Facts API requests
 
+## Project Status
+
+The inventory data is stored temporarily in a Python list. Any changes made while the application is running is not permanently saved after the application stops.
 
 ## Conclusion
 
